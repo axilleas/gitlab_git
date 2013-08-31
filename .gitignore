@@ -2,3 +2,5 @@
 support/gitlabhq*
 tmp/*
 coverage/*
+vendor/bundle/
+.bundle/
